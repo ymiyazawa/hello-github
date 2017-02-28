@@ -1,3 +1,3 @@
 # hello-github
-Repsitory for try GitHub function.
+Repository for try GitHub function.
 Working Repository for Git
